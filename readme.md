@@ -28,7 +28,6 @@ public LB 38위 / 0.70425, Private LB 68위/0.70342 로 대회를 마무리하�
 ## 2. How you Setup
 
 - Eli5 등 Optuna는 이미 작업이 완료가 되었고 해당 내용은 ipyb 파일에서 확인하시면 됩니다.
-- 얻은 정보를 Config.json이라는 파일을 두어 바로 모델에 적용하는 방법을 차용했습니다.
 
 The code in this repo is an CatboostCalsifier example of the template.  
 Try `python train.py` to run code.
